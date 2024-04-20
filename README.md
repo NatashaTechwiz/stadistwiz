@@ -69,8 +69,7 @@ The Gaussian distribution is characterized by its mean (μ) and standard deviati
 
 Visually, this type of distribution looks like a bell curve. The mean, median, and mode are found at the centre of the distribution, and the standard deviation is the distance from the centre to the change of curvature points on either side. Curvature points also referred to as inflection points, are found using the standard deviation.
 
-
-![image.png](images/2e8ae924-f2a2-4728-a415-692beb54bdf5.png)<br>
+https://github.com/NatashaTechwiz/stadistwiz/blob/main/images/gaussian_curve_ex.png <br>
 image source: https://calcworkshop.com/exploring-data/normal-distribution/
 
 The Gaussian distribution is commonly used to model continuous variables (those that can theoretically have an infinite number of possible values within a specified interval) such as height, weight, temperature, and time.
@@ -373,7 +372,4 @@ print(repr(binomial_two)) #Output: mean 24.0, standard deviation 3.79, p 0.4, n 
 ```
 
 
-```python
-
-```
 
