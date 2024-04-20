@@ -81,10 +81,10 @@ Therefore, the Gaussian plot inherently encapsulates probability through the sha
 ##### Histogram of Data vs Normalised Histogram of Data and Gaussian Distribution Curve
 
 If the initial histogram plot approximates to a bell curve, this is characteristic of a gaussian distribution. If it is not, you will need to employ a different technique on the data set, outside the scope of this package to calculate density function.<br>
-![image.png](images/880438c4-6bf5-4c3f-a732-c4eb21c371a5.png)<br>
+![Alt Text](https://github.com/NatashaTechwiz/stadistwiz/blob/main/images/gaussian_hist_ex.png) <br>
 
 By plotting the normal distribution curve based on the sample mean and sample standard deviation alongside the normalised histogram of the data, you can visually compare the actual data distribution with the expected normal distribution. This comparison helps in assessing how closely the data aligns with the characteristics of a normal distribution.<br>
-![image.png](images/a73c4426-1299-440e-a062-5126755971c5.png)
+![Alt Text](https://github.com/NatashaTechwiz/stadistwiz/blob/main/images/normed_hist.png)
 
 
 #### For a Bimomial distribution:
@@ -99,7 +99,7 @@ The binomial distribution is commonly used to model scenarios involving binary o
 PMF is used for discrete random variables, where each possible value has a non-zero probability. In the case of the binomial distribution, the PMF calculates the probability of getting a specific number of successes in a fixed number of trials. The shape of the PMF depends on the specific distribution being considered and therefore may not be a bell shaped curve.
 
 
-![image.png](images/bd416168-0eb3-4424-9794-526eb21ac8d6.png) <br>
+![Alt Text](https://github.com/NatashaTechwiz/stadistwiz/blob/main/images/neg_binomial.png) <br>
 Example plot for a PMF with a negative binomial distribution (the number of trials required to reach a fixed number of successes) e.g. modeling the number of calls a call center operator needs to make before a certain number of successful sales.
 
 ##### Characteristics of a Binomial Distribution:
@@ -161,7 +161,7 @@ natasha.techwiz@gmail.com
 
 ## License
 
-Refer to the LICENSE.md file for details
+Refer to the LICENSE file for details
 
 
 ## Executing Program
